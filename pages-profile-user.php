@@ -157,7 +157,7 @@ $koneksi = new mysqli("127.0.0.1", "root", "", "bus");
             <div class="navbar-nav ms-auto p-4 p-lg-0">
                 <a href="index.php" class="nav-item nav-link ">Home</a>
                 <a href="pages-profile-user.php" class="nav-item nav-link active">Profile</a>
-                <a href="booking.php" class="nav-item nav-link ">Booking</a>
+                <a href="pages-booking.php" class="nav-item nav-link ">Booking</a>
                 <!-- <a href="about.html" class="nav-item nav-link">About</a> -->
                 <!-- <a href="courses.html" class="nav-item nav-link">Order</a> -->
                 <!-- <div class="nav-item dropdown">

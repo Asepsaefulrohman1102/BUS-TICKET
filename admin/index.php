@@ -1,7 +1,7 @@
 <?php
 session_start();
 //koneksi ke database
-$koneksi = new mysqli("localhost", "root", "", "toko_online");
+$koneksi = new mysqli("localhost", "root", "", "bus");
 
 
 if (!isset($_SESSION['admin'])) {

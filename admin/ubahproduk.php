@@ -1,7 +1,7 @@
 <?php
 session_start();
 //script koneksi
-$koneksi = new mysqli("localhost", "root", "", "toko_online");
+$koneksi = new mysqli("localhost", "root", "", "bus");
 ?>
 
 <!DOCTYPE html>
